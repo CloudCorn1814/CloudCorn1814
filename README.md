@@ -1,12 +1,15 @@
 👋 Привет всем! / Hello everyone!
 ---
-
 Меня зовут Глеб — я инженер-теплоэнергетик по образованию и начинающий Go Backend Developer.
 Раньше я рассчитывал тепловые балансы, проектировал и согласовывал теплотрассы и анализировал 
 энергоэффективность, а теперь проектирую сервера и API.
 ---
+My name is Gleb — I’m a Thermal Power Engineer by education and an aspiring Go Backend Developer.
+I used to calculate heat balances, design and coordinate heating networks, and analyze energy efficiency —
+now I design servers and APIs.
+---
 
-## 🇷🇺 Обо мне
+## RU Обо мне
 
 - 🎓 Образование: магистр-теплоэнергетик (НИУ МЭИ)
 - 💻 Сейчас развиваюсь как **Go backend разработчик**
@@ -17,7 +20,7 @@
 
 ---
 
-## 🇬🇧 About Me
+## EN About Me
 
 - 🎓 Background in **Thermal Power Engineering (MPEI Magister)** 
 - 💻 Currently focusing on **Go backend development**
