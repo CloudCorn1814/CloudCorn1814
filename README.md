@@ -2,7 +2,8 @@
 ---
 
 Меня зовут Глеб — я инженер-теплоэнергетик по образованию и начинающий Go Backend Developer.
-Раньше я рассчитывал тепловые балансы, согласовывал теплотрассы и анализировал энергоэффективность, а теперь строю серверы и API.
+Раньше я рассчитывал тепловые балансы, проектировал и согласовывал теплотрассы и анализировал 
+энергоэффективность, а теперь проектирую сервера и API.
 ---
 
 ## 🇷🇺 Обо мне
@@ -12,26 +13,26 @@
 - 🔬 Интересуюсь системным программированием, микросервисами и обработкой данных
 - ⚙️ Люблю понимать, **как всё работает под капотом**
 - 🧠 Учусь писать чистый, тестируемый и масштабируемый код
-- ☕ В свободное время читаю о науке, архитектуре ПО и играю в Baldur’s Gate 3
+- ☕ В свободное время читаю о науке, архитектуре ПО и играю в видеоигры
 
 ---
 
 ## 🇬🇧 About Me
 
-- 🎓 Background in **Thermal Power Engineering**
+- 🎓 Background in **Thermal Power Engineering (MPEI Magister)** 
 - 💻 Currently focusing on **Go backend development**
 - 🔬 Interested in system design, microservices, and data handling
 - ⚙️ I enjoy understanding **how things work under the hood**
 - 🧠 Learning to write clean, testable, and scalable Go code
-- ☕ Love science, software architecture, and RPG games in my free time
+- ☕ Love science, software architecture, and videogames in my free time
 
 ---
 
 ## 🧩 Tech Stack
 
 **Languages:** Go, SQL, Bash  
-**Tools:** Git, VS Code, SQLite, Docker  
-**Concepts:** REST API, HTTP, JSON, Concurrency, Testing  
+**Tools:** Git, VS Code, SQLite, Docker, Docker Compose  
+**Concepts:** REST API, HTTP/HTTPS, JSON, YAML, Concurrency, Testing, CI/CD  
 
 ---
 ## 📫 Контакты / Contacts
