@@ -37,7 +37,7 @@
 ---
 ## 📫 Контакты / Contacts
 
-- 📧 Email: **<your-email>@gmail.com**
+- 📧 Email: **gotlib1814@gmail.com**
 - 💬 Telegram: https://t.me/BumRush
 - 🧰 GitHub: [github.com/Cloudcorn1814](https://github.com/Cloudcorn1814)
 
